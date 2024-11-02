@@ -1,0 +1,12 @@
+.blacknwhite {
+    background-color: black;
+    color: white;
+}
+.taxi {
+    background-color: yellow;
+    color: black;
+}
+.blacknwhite, .taxi {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}

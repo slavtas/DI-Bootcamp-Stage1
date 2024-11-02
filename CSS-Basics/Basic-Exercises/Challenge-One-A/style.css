@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(255, 206, 159);
+    
+}
+#wrap {
+    background-color: beige;
+    width: 640px;
+    margin: 0px auto;
+    border-style: dotted;
+}
+#headder {
+    border-bottom: dotted;
+    font-style: italic;
+    padding: 6px;
+    text-align: center;
+    margin: 0px;
+}
+.weep {
+    padding: 0px 12px; text-align: justify;
+}
+#no-bullets {
+    list-style-type: none;
+    text-align: center;
+    font-style: italic;
+}
+li::first-letter {
+font-size: 22px;
+font-weight: bold;
+}
+.copyright {
+    text-align: center;
+}

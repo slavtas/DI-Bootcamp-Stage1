@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(108, 197, 226);
+}
+.no-bullets {
+    list-style-type: none;
+    text-align: center;
+}
+li::first-letter {
+    font-size: 28px;
+}
